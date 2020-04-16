@@ -1,1 +1,13 @@
-1
+h1{
+	color: blue;
+	text-align: center;
+}
+
+#middle {color: blue;}
+
+
+  ol li {
+      color: red;
+  }
+  
+  .name {color: purple;}
